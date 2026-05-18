@@ -274,3 +274,32 @@ store-rating-app/
     │   └── index.css              # Global design system
     └── package.json
 ```
+
+
+### Login Page
+<img width="1920" height="966" alt="Login page" src="https://github.com/user-attachments/assets/d8685af9-dade-4a7d-860e-407c47d8f018" />
+
+
+### Register Page
+<img width="1920" height="960" alt="Register page" src="https://github.com/user-attachments/assets/350d9b5e-6937-4f7b-aa25-b205c24f7c29" />
+
+
+### Admin Dashboard
+<img width="1903" height="970" alt="Admin Dashborad" src="https://github.com/user-attachments/assets/4e962dc3-760b-4d5d-9d3d-0f0b1c7afa3a" />
+
+
+### Admin Users
+<img width="1920" height="966" alt="Admin Users" src="https://github.com/user-attachments/assets/f30aac71-61c7-476d-a894-aa10af23f956" />
+
+
+### Admin Stores
+<img width="1920" height="969" alt="Admin Stores" src="https://github.com/user-attachments/assets/7a22c0b8-c82e-48da-b60d-a808245633ea" />
+
+
+### User Stores
+<img width="1920" height="962" alt="User Stores" src="https://github.com/user-attachments/assets/6cca7d6c-73ba-405f-a68c-a3b0c1b0a742" />
+
+
+### Owner Dashboard
+![Owner Dashboard](Screenshot/Owner Dashboard.png)
+
