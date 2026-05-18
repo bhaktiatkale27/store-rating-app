@@ -64,7 +64,7 @@ JWT_SECRET=change_this_to_a_random_secret_string
 JWT_EXPIRES_IN=7d
 ```
 
-> ⚠️ Replace `your_mysql_password_here` with your actual MySQL root password.
+> Replace `your_mysql_password_here` with your actual MySQL root password.
 
 ---
 
