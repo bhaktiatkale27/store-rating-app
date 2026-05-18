@@ -85,9 +85,9 @@ npm run dev
 
 You should see:
 ```
-✅ Database initialized successfully
-✅ Default admin created: admin@storerating.com / Admin@123
-🚀 Server running on http://localhost:5000
+ Database initialized successfully
+ Default admin created: admin@storerating.com / Admin@123
+ Server running on http://localhost:5000
 ```
 
 > The server auto-creates the database, tables, and a default admin user on first run.
