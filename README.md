@@ -301,5 +301,6 @@ store-rating-app/
 
 
 ### Owner Dashboard
-![Owner Dashboard](Screenshot/Owner Dashboard.png)
+<img width="1920" height="952" alt="Owner Dashboard" src="https://github.com/user-attachments/assets/398ad7a4-068b-4539-82e8-0b859bf0943e" />
+
 
